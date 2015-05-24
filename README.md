@@ -1,3 +1,5 @@
+> **This approach is now deprecated. Instead, have a look at my [CSS Modules Example].**
+
 # PostCSS Local Scope Example
 
 A small working example of [postcss-local-scope].
@@ -25,4 +27,5 @@ $ npm start & open http://localhost:8080
 [PostCSS]: https://github.com/postcss/postcss
 [postcss-loader]: https://github.com/postcss/postcss-loader
 [postcss-local-scope]: https://github.com/markdalgleish/postcss-local-scope
+[CSS Modules Example]: https://github.com/markdalgleish/css-modules-example
 [MIT]: http://markdalgleish.mit-license.org
